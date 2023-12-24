@@ -1,0 +1,12 @@
+{
+    "name":"John Doe",
+    "age": 20,
+    "email": "John@gmail.com",
+    "isSubscribed":true,
+    "hobbies":["readings" , "Running" , "Cooking"],
+    "address":{
+        "city":"New York",
+        "idk":true
+    }
+}
+
